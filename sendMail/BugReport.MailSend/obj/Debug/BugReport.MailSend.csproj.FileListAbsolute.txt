@@ -1,0 +1,17 @@
+C:\Users\czhang447\Documents\Visual Studio 2015\Projects\sendMail\BugReport.MailSend\obj\Debug\BugReport.MailSend.csprojResolveAssemblyReference.cache
+C:\Users\czhang447\Documents\Visual Studio 2015\Projects\sendMail\BugReport.MailSend\bin\Debug\BugReport.MailSend.dll
+C:\Users\czhang447\Documents\Visual Studio 2015\Projects\sendMail\BugReport.MailSend\bin\Debug\BugReport.MailSend.pdb
+C:\Users\czhang447\Documents\Visual Studio 2015\Projects\sendMail\BugReport.MailSend\obj\Debug\BugReport.MailSend.dll
+C:\Users\czhang447\Documents\Visual Studio 2015\Projects\sendMail\BugReport.MailSend\obj\Debug\BugReport.MailSend.pdb
+C:\Users\czhang447\Documents\Visual Studio 2015\Projects\sendMail\BugReport.MailSend\bin\Debug\Google.Apis.Auth.dll
+C:\Users\czhang447\Documents\Visual Studio 2015\Projects\sendMail\BugReport.MailSend\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\czhang447\Documents\Visual Studio 2015\Projects\sendMail\BugReport.MailSend\bin\Debug\Google.Apis.Core.dll
+C:\Users\czhang447\Documents\Visual Studio 2015\Projects\sendMail\BugReport.MailSend\bin\Debug\Google.Apis.dll
+C:\Users\czhang447\Documents\Visual Studio 2015\Projects\sendMail\BugReport.MailSend\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\czhang447\Documents\Visual Studio 2015\Projects\sendMail\BugReport.MailSend\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\czhang447\Documents\Visual Studio 2015\Projects\sendMail\BugReport.MailSend\bin\Debug\Newtonsoft.Json.dll
+C:\Users\czhang447\Documents\Visual Studio 2015\Projects\sendMail\BugReport.MailSend\bin\Debug\Google.Apis.xml
+C:\Users\czhang447\Documents\Visual Studio 2015\Projects\sendMail\BugReport.MailSend\bin\Debug\Google.Apis.Auth.xml
+C:\Users\czhang447\Documents\Visual Studio 2015\Projects\sendMail\BugReport.MailSend\bin\Debug\Google.Apis.Core.xml
+C:\Users\czhang447\Documents\Visual Studio 2015\Projects\sendMail\BugReport.MailSend\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\czhang447\Documents\Visual Studio 2015\Projects\sendMail\BugReport.MailSend\bin\Debug\Newtonsoft.Json.xml

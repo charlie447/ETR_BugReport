@@ -1,0 +1,1 @@
+C:\Users\czhang447\Documents\Visual Studio 2015\Projects\sendMail\Test.Excel\obj\Debug\Test.Excel.csprojResolveAssemblyReference.cache
